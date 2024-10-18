@@ -19,6 +19,27 @@
         "cells": [
           {
             "position": {
+              "x": 370,
+              "y": 179.21875
+            },
+            "size": {
+              "width": 440,
+              "height": 206.24999999999997
+            },
+            "visible": true,
+            "shape": "trust-boundary-box",
+            "id": "52851fed-6193-4952-9e82-d4cc811e2816",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
               "x": 390,
               "y": 225
             },
@@ -38,6 +59,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -121,7 +143,6 @@
               ]
             },
             "id": "550ddce6-138e-4b19-8ed0-d7762464a068",
-            "zIndex": 1,
             "data": {
               "type": "tm.Process",
               "name": "Web Application\nPHP Server 1",
@@ -218,6 +239,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -301,7 +323,6 @@
               ]
             },
             "id": "b49bda40-c0c6-4088-bb10-2cd201970839",
-            "zIndex": 2,
             "data": {
               "type": "tm.Actor",
               "name": "Web-Browser",
@@ -339,6 +360,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -422,7 +444,6 @@
               ]
             },
             "id": "59ba407e-1345-40a5-9288-850bda25a66f",
-            "zIndex": 3,
             "data": {
               "type": "tm.Store",
               "name": "Database MYSQL Server 2",
