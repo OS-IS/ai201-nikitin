@@ -1,0 +1,46 @@
+@startuml
+title UML-діаграма розгортання ПП
+
+left to right direction
+
+skinparam componentStyle uml1
+
+node "<<Персональний комп'ютер>>" as dk {
+    node "<<Операційна система Windows/Linux>>" {
+        node "<<Веб-браузер>>" {
+            component [*.html]
+            component [*.css]
+            component [*.php]
+            component [*.js]
+        }
+    }
+}
+
+interface Keyboard
+
+interface Mouse
+
+Keyboard -- dk
+
+Mouse -- dk
+
+node "<<Сервер 1>>" as serv1 {
+	node "<<Операційна система Linux>>" as l1 {
+	    node "<<Application Server PHP>>" {
+		    component [*.php]
+		}
+	}
+}
+
+dk -- serv1
+
+node "<<Сервер 2>>" as serv2 {
+	node "<<Операційна система Linux>>" as l2 {
+	    node "<<Сервер бази даних MySQL>>" {
+		    database MySQL
+		}
+	}
+}
+
+serv1 -- serv2
+@enduml
