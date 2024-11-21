@@ -35,11 +35,11 @@
 
 <img width="364" alt="Снимок экрана 2024-11-19 115940" src="https://github.com/user-attachments/assets/ae0d8c1e-3391-4cee-bbea-811eabae99aa"><br>  
 
-<img width="292" alt="Снимок экрана 2024-11-19 120008" src="https://github.com/user-attachments/assets/9aca66fd-4fc5-4660-a66a-061e91616b28"><br>  
+<img width="319" alt="Снимок экрана 2024-11-21 110925" src="https://github.com/user-attachments/assets/156f943a-f8b7-4531-9bf1-497511a2ca3a"><br>  
 
-<img width="361" alt="Снимок экрана 2024-11-19 120029" src="https://github.com/user-attachments/assets/fc83d006-4639-48b3-bc21-8b534caaf778"><br>  
+<img width="361" alt="Снимок экрана 2024-11-21 111040" src="https://github.com/user-attachments/assets/0856c528-2c2d-41ca-a85b-0bf1e4b2f714"><br>  
 
-<img width="167" alt="Снимок экрана 2024-11-19 120055" src="https://github.com/user-attachments/assets/b19273b5-c531-4d48-9452-8ec691a723d4"><br>  
+<img width="287" alt="Снимок экрана 2024-11-21 111052" src="https://github.com/user-attachments/assets/dfcc7333-ef31-4ada-852b-2382d9ec1f8d"><br>  
 
     
 
